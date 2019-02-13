@@ -1,6 +1,6 @@
 {
   "name": "egg-fulllog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fulllog plugin for egg",
   "eggPlugin": {
     "name": "fulllog"
