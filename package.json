@@ -46,12 +46,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-fulllog.git"
+    "url": "git+https://github.com/DuLinRain/egg-fulllog.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/DuLinRain/egg-fulllog/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-fulllog#readme",
+  "homepage": "https://github.com/DuLinRain/egg-fulllog#readme",
   "author": "DuLinRain",
   "license": "MIT"
 }
